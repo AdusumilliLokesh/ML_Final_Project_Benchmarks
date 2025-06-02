@@ -55,7 +55,7 @@ The following results were observed over 100+ samples for each dataset using the
 
 ## Setup and Usage
 
-1.  **Clone Repository:** `git clone <your-repo-url>`
+1.  **Clone Repository:** `git clone https://github.com/AdusumilliLokesh/ML_Final_Project_Benchmarks.git`
 2.  **Install Dependencies:** `pip install datasets tqdm` (Ensure `curl` is available).
 3.  **Configure API Keys:**
     * **CRITICAL:** Obtain API keys for Google AI Studio (Gemini) and OpenAI. **Use NEW, SECURE keys.**
